@@ -43,7 +43,7 @@ mac电脑下载：http://download.garygeng.com/download/ShadowsocksX-NG-R8.dmg
 
 安卓下载：http://download.garygeng.com/download/ssr.apk
 
-安卓手机：（可先左滑删除自带订阅）打开-右下角+号--手动设置-配置名称随便起个名-只重点设置三项-（还有功能设置-路由绕过局X网）
+安卓手机：（可先左滑删除自带订阅）打开-右下角+号--手动设置-配置名称随便起个名-只重点设置三项-（还有功能设置-路由全局）
 
 服务器地址：45.32.184.110
 
