@@ -73,7 +73,7 @@ mac电脑下载：http://download.garygeng.com/download/ShadowsocksX-NG-R8.dmg
 
 ================================================
 
-win电脑下载：https://garygeng.com/wp-content/uploads/ssr-win.7z 下载后解压，先复制一下下面一个链接-打开软件-右下角小图标-右键剪贴板导入-（右键代理规则设置绕过XX网）
+win电脑下载：https://garygeng.com/wp-content/uploads/ssr-win.7z 下载后解压，先复制一下下面一个链接-打开软件-右下角小图标-右键剪贴板导入-（右键代理规则设置全局）最后记得更新订阅即可
 
 ssr://NDUuMzIuMTg0LjExMDo2MDphdXRoX3NoYTFfdjQ6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOmFtaG1aR1ppWjJRLz9vYmZzcGFyYW09
 
